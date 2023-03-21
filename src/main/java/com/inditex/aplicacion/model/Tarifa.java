@@ -1,4 +1,4 @@
-package dto;
+package com.inditex.aplicacion.model;
 
 import jakarta.persistence.*;
 
